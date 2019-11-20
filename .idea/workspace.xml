@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bff81e7-713d-4841-9ef0-e9e3394cf920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/counterup/counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/css/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/css/lightbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/images/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/images/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/js/lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lightbox/js/lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/wow/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/wow/wow.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="1bff81e7-713d-4841-9ef0-e9e3394cf920" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3707">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="220">
+              <caret line="241" column="19" lean-forward="true" selection-start-line="241" selection-start-column="19" selection-end-line="241" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -109,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -199,15 +184,15 @@
       <workItem from="1573262221339" duration="5928000" />
       <workItem from="1573287428147" duration="1810000" />
       <workItem from="1573521601303" duration="1213000" />
-      <workItem from="1574132042667" duration="5688000" />
+      <workItem from="1574132042667" duration="5691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20449000" />
+    <option name="totallyTimeSpent" value="20452000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -279,8 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3707">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="241" column="19" lean-forward="true" selection-start-line="241" selection-start-column="19" selection-end-line="241" selection-end-column="19" />
         </state>
       </provider>
     </entry>
